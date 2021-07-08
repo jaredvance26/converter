@@ -1,0 +1,49 @@
+header {
+    text-align: center;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+main {
+    margin: 0 auto;
+    margin-top: 75px;
+    background-color: rgb(3, 149, 207);
+    color: white;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 15px;
+}
+label {
+    font-size: 30px;
+    font-family: 'Encode Sans SC', sans-serif;
+    margin-left: 100px;
+    margin-top: 75px;
+}
+
+#fahrenheit {
+    font-size:  25px;
+    max-width: 60px;
+    
+}
+
+#submit{
+    cursor: pointer;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 220px;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: bold;
+    background-color: rgb(11, 55, 151);
+    color: white;
+    padding: 5px
+
+}
+h1 {
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+#conversion {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 110px;
+}
