@@ -34,7 +34,8 @@ label {
     font-weight: bold;
     background-color: rgb(11, 55, 151);
     color: white;
-    padding: 5px
+    padding: 5px;
+    border-radius: 12px;
 
 }
 h1 {
